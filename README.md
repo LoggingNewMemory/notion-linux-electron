@@ -7,6 +7,10 @@ Arch Users? Please refer to [Notion App Electron](https://aur.archlinux.org/pack
 
 This for Ubuntu / Debian / Fedora
 
+<a href="https://snapcraft.io/notion-electron-linux">
+    <img alt="Get it from the Snap Store" src=https://snapcraft.io/en/dark/install.svg />
+  </a>
+
 How to install?
 
 1. Go to Release page and get your .deb / .rpm / .AppImage

@@ -1,6 +1,7 @@
 ![Banner](https://github.com/user-attachments/assets/aa9834f5-4c44-436e-8499-a8c83670b7ff)
 
-Unofficial Linux Client for Notion.so. Build with Electron
+Unofficial Linux Client for Notion.so <br />
+Build with Electron
 
 Arch Users? Please refer to [Notion App Electron](https://aur.archlinux.org/packages/notion-app-electron)
 
